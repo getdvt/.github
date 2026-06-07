@@ -21,7 +21,7 @@
 
 | Principle | What it means |
 |-----------|---------------|
-| **Dashboards as Data** | Every dashboard is a versioned JSON spec. Git-diff it, review it, generate it with Claude. |
+| **Dashboards as Data** | Every dashboard is a versioned JSON spec. Git-diff it, review it, co-author it with Claude. |
 | **AI-native** | An MCP server lets agents create, edit, and audit dashboards as first-class operations — not a plugin, the architecture. |
 | **Fully customizable** | No locked styles. Every visual property — down to axis-label spacing — is a spec-controlled parameter. |
 | **Open spec** | Dashboard spec and SDKs are Apache-2.0. Self-host freely; use DVT Cloud when you'd rather not. |
